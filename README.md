@@ -1,5 +1,4 @@
-
-## Getting Started
+### Webapp to search anything on Wikipedia and return a page of articles.
 ```bash
 npm run dev
 ```
